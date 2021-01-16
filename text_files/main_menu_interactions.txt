@@ -1,0 +1,12 @@
+Welcome to MacGyver's library!
+
+Here at MGL we like to party!
+
+Drankin dem Green Tea Lattes all day, everyday.
+Any lactose will not be tolerated! Keep mooooo-vin along!
+
+Select our librarian's action by entering the corresponding number:
+
+    0 : Search books
+    1 : Move a book
+    2 : Quit
